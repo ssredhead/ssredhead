@@ -2,9 +2,7 @@
 ¡Hola, Me llamo Sophia! Soy una ingeniera de software y una entusiastica de la lingüística.
 Hei, jeg heter Sophia! Jeg er programvareingeniør og lingvistikkentusiast.
 
-🎓I am a 2020 graduate of Saint Vincent College with a Bachelor of Science degree in Computer Science.
-
-💛 I am a Pittsburgh local who is proud to be a woman in STEM. 
+🎓I am a 2020 graduate
 I am passionate about developing meaningful tech that can improve the world and give others the opportunity for a better life. 
 
 📚 From an early age I have always been curious about how things work and why, especially about language.
